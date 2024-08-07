@@ -12,6 +12,4 @@
 
 ## Hecho por:
 
-### Haydee Melgar
-
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/haydeevasquez/)
+### Linkedin: [Haydee Melgar](https://www.linkedin.com/in/haydeevasquez/)
